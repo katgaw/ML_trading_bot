@@ -49,7 +49,7 @@ To use this project simply clone the repository and run the code **machine_learn
 
 ---
 
-## Methodologys
+## Methodology
 This project helps a financial advisor to increase the speed for buying and selling stocks. It evaluates two different models, support vector machine and logistic regression and also tunes the parameters for the baseline trading algorithm.
 
 BASELINE MODEL:
